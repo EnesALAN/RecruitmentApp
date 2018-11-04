@@ -1,0 +1,9 @@
+		#results { 
+		float:right; 
+		margin-top:5px; 
+		margin-right:100px;
+		padding:10px; 
+		border:0.5px solid; 
+		background:#ccc; 
+		text-align:center;
+		}
